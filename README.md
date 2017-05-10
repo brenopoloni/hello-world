@@ -1,8 +1,5 @@
 # hello-world
+
 this is my first shout
 
-just learning
-
-oi
-
-salva
+just learning how git work :)
